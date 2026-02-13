@@ -1,0 +1,11 @@
+AWS Lambda
+
+AWS Lambda is Amazon's serverless compute service that lets you run code without provisioning or managing servers. Lambda automatically scales your application by running code in response to each trigger.
+
+Features:
+- Automatic scaling from zero to thousands
+- Pay per request and compute time
+- Integrated with AWS services
+- Supports Node.js, Python, Java, Go, and more
+
+Lambda functions can be triggered by S3 events, DynamoDB streams, API Gateway, and many other AWS services.

@@ -1,0 +1,17 @@
+Docker and Containerization
+
+Docker is a platform for developing, shipping, and running applications in containers. Containers are lightweight, portable, and ensure consistency across environments.
+
+Key Concepts:
+- Images: Read-only templates with application code
+- Containers: Running instances of images
+- Dockerfile: Instructions to build custom images
+- Docker Hub: Registry for sharing images
+
+Benefits:
+- Consistent environments from development to production
+- Efficient resource utilization compared to VMs
+- Fast startup times
+- Easy scaling and orchestration with Kubernetes
+
+Docker revolutionized how developers build and deploy applications.
