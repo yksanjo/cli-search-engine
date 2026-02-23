@@ -1,5 +1,12 @@
 # cli-search-engine
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/cli-search-engine/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/cli-search-engine/actions)
+![License](https://img.shields.io/github/license/yksanjo/cli-search-engine)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/cli-search-engine)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/cli-search-engine)
+
 ## Detailed Description
 
 cli-search-engine is maintained as an industry-grade software project with production-ready engineering practices.  
